@@ -13,7 +13,7 @@ function App() {
           <img src={SweetRide} className="logo sr" alt="sr logo" />
         </a>
         <NavBar />
-        <ItemListContainer greeting = "Bienvenido/a a SweetRide"/>
+        <ItemListContainer greeting = "¡Bienvenido/a a SweetRide!"/>
       </div>
       <div className="card">
         
