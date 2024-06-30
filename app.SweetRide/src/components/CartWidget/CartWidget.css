@@ -1,0 +1,14 @@
+.cart-image {
+    width: 30px;
+    height: auto;
+    display: block;
+    margin-right: 5px;
+}
+
+.cart-widget {
+    display: flex;
+    align-items: center;
+    font-size: 1.2em;
+    justify-content: center;
+    padding-top: 20px;
+}
